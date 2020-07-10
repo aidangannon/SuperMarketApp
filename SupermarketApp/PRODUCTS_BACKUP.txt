@@ -1,0 +1,160 @@
+##
+ID:0
+Name:Tropical Banana
+Price:3.5
+Weight:0.3
+Expiry Date:12/12/1999
+Image:Banana.png
+Product Catagory:Fruit&Veg
+Max Stock:7
+Min Stock:1
+Ammount Of Product In Stock:6
+~~
+Supplier Name:Farmer Joe's
+Supplier Delivery Policy:3
+Supplier Delivery Price:4
+--
+##
+ID:1
+Name:Corn Flakes
+Price:1.4
+Weight:0.6
+Expiry Date:12/12/1999
+Image:Cornflakes.png
+Product Catagory:Cereals
+Max Stock:10
+Min Stock:2
+Ammount Of Product In Stock:9
+~~
+Supplier Name:Kellogs
+Supplier Delivery Policy:5
+Supplier Delivery Price:2
+--
+##
+ID:2
+Name:Rice Krispies
+Price:2.5
+Weight:0.6
+Expiry Date:02/02/1999
+Image:RiceKrispies.png
+Product Catagory:Cereals
+Max Stock:10
+Min Stock:5
+Ammount Of Product In Stock:10
+~~
+Supplier Name:Kellogs
+Supplier Delivery Policy:5
+Supplier Delivery Price:2
+--
+##
+ID:3
+Name:12 Free Range Eggs
+Price:3.5
+Weight:0.25
+Expiry Date:02/02/1991
+Image:Eggs.png
+Product Catagory:Poultry
+Max Stock:6
+Min Stock:2
+Ammount Of Product In Stock:2
+~~
+Supplier Name:Farmer Joe's
+Supplier Delivery Policy:3
+Supplier Delivery Price:4
+--
+##
+ID:4
+Name:6 Free Range Eggs
+Price:2.5
+Weight:0.125
+Expiry Date:02/02/1991
+Image:Eggs.png
+Product Catagory:Poultry
+Max Stock:6
+Min Stock:2
+Ammount Of Product In Stock:2
+~~
+Supplier Name:Farmer Joe's
+Supplier Delivery Policy:3
+Supplier Delivery Price:4
+--
+##
+ID:5
+Name:Whole Milk
+Price:1.5
+Weight:1.0
+Expiry Date:02/02/1991
+Image:Milk.png
+Product Catagory:Dairy
+Max Stock:6
+Min Stock:2
+Ammount Of Product In Stock:2
+~~
+Supplier Name:Farmer Joe's
+Supplier Delivery Policy:3
+Supplier Delivery Price:4
+--
+##
+ID:6
+Name:Semi Skimmed Milk
+Price:1.6
+Weight:1.0
+Expiry Date:02/02/1991
+Image:Milk.png
+Product Catagory:Dairy
+Max Stock:6
+Min Stock:2
+Ammount Of Product In Stock:2
+~~
+Supplier Name:Farmer Joe's
+Supplier Delivery Policy:3
+Supplier Delivery Price:4
+--
+##
+ID:7
+Name:Red Onion
+Price:0.89
+Weight:0.5
+Expiry Date:02/02/1991
+Image:Redonion.png
+Product Catagory:Fruit&Veg
+Max Stock:6
+Min Stock:2
+Ammount Of Product In Stock:2
+~~
+Supplier Name:Farmer Joe's
+Supplier Delivery Policy:3
+Supplier Delivery Price:4
+--
+##
+ID:8
+Name:Brown Onion
+Price:0.79
+Weight:0.5
+Expiry Date:02/02/1991
+Image:Brownonion.png
+Product Catagory:Fruit&Veg
+Max Stock:6
+Min Stock:2
+Ammount Of Product In Stock:2
+~~
+Supplier Name:Farmer Joe's
+Supplier Delivery Policy:3
+Supplier Delivery Price:4
+--
+##
+ID:9
+Name:Carrot
+Price:10.0
+Weight:2.0
+Expiry Date:02/02/1991
+Image:Carrot.png
+Product Catagory:Fruit&Veg
+Max Stock:6
+Min Stock:2
+Ammount Of Product In Stock:2
+~~
+Supplier Name:Farmer Joe's
+Supplier Delivery Policy:3
+Supplier Delivery Price:4
+--

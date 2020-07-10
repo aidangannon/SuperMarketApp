@@ -1,0 +1,15 @@
+##
+User Type:Owner
+User Name:Alex
+Password:12345
+--
+##
+User Type:Customer
+User Name:Dan
+Password:123
+--
+##
+User Type:Customer
+User Name:Aidan
+Password:1234
+--
